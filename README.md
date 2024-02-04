@@ -9,7 +9,7 @@ The following Python scripts are included in the repository:
 - gpt-3.5-turbo.py
 - text-davinci-003.py
 - text-curie-001.py
-- text-babbage.py
+- text-babbage-001.py
 - text-ada-001.py
 - llama-2-7b.py
 - llama-2-13b.py
