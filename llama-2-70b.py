@@ -28,13 +28,29 @@ for i in range(83,len(ll)):
     temp=temp+llll[j]+" "
     counter=counter+1
     if counter % 250 == 0:
-      response=lcpp_llm(prompt="You have been given  Bengali sentence(s) with errors. Your assignment has two main components:(1) Produce the Corrected Sentence:Identify and rectify the errors in the provided sentence, ensuring it is both grammatically and contextually accurate in Bengali.(2) Provide Concise Explanations for Each Error Type:For every error corrected in the sentence, categorize the error type and offer a brief explanation. Clarify the grammatical, syntactical, or semantic issues addressed and present the rationale behind each correction. The goal is to enhance understanding of the language intricacies involved.Example:Incorrect sentece:Error Type: Typographical Explanation: The correct spelling of the word "+"liking"+ " or preference is in Bengali. The error in the original sentence is a typographical mistake where the letters and  got swapped.2. rror Type: Pronoun AgreementE Explanation: The original sentence used the pronoun (ei), which refers to something close to the speaker. However, since we are talking about a country lover t is more appropriate to use o refer to the concept of a country, which is considered as a neutral or distant object or Type: Spelling/Grammatical Explanation: The correct form is (y kare) which means truthful or genuine. The original sentence had a spelling error by using", max_tokens=50, temperature=0.7, top_p=0.95,
-                  repeat_penalty=1.2, top_k=50,
-                  echo=True)
-      ttt=response["choices"][0]["text"]
-      ttt=ttt.split("}")
-      print(ttt[-1])
-      ff.write(ttt[-1])
-      temp=""
-  print("-------------------------------------------------------------")
+      response=lcpp_llm(prompt= """You have been given  Bengali sentence(s) with errors. Your assignment has two main components: (1) Produce the Corrected Sentence: Identify and rectify the errors in the provided sentence, ensuring it is both grammatically and contextually accurate in Bengali. (2) Provide Concise Explanations for Each Error Type: For every error corrected in the sentence, categorize the error type and offer a brief explanation. Clarify the grammatical, syntactical, or semantic issues addressed and present the rationale behind each correction. The goal is to enhance understanding of the language intricacies involved. 
+                          Example: 
+                          Incorrect sentece: 
+                          আমি গতকাল বাজারে যাই সবজি কিনি।                                                                                                      
+                          Corrected Sentence:
+                          আমি গতকাল বাজারে গিয়ে সবজি কিনলাম।
+                          Explanations:
+
+                         1. যাই → গিয়ে
+                            Error Type: Verb Form
+                            Explanation: The verb "যাই" (jai) implies the act of going, while the context of the sentence requires the past action of going to the market. Therefore, the correct form is "গিয়ে" (giye), indicating that the speaker went to the market.
+
+                           2. কিনি → কিনলাম
+                             Error Type: Verb Form
+                             Explanation: The original sentence used the verb "কিনি" (kini), which is the present tense form. To match the past tense context of the sentence, the correct form is "কিনলাম" (kinlam), indicating that the speaker bought vegetables in the past.
+
+                             Sentence(s) for correction is/are provided below.                                                      
+                             {}
+                      """, max_tokens=50, temperature=0.7, top_p=0.95, repeat_penalty=1.2, top_k=50,  echo=True)
+        ttt=response["choices"][0]["text"]
+        ttt=ttt.split("}")
+        print(ttt[-1])
+        ff.write(ttt[-1])
+        temp=""
+    print("-------------------------------------------------------------")
                                                                          
