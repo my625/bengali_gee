@@ -47,10 +47,10 @@ for i in range(83,len(ll)):
                              Sentence(s) for correction is/are provided below.                                                      
                              {}
                       """, max_tokens=50, temperature=0.7, top_p=0.95, repeat_penalty=1.2, top_k=50,  echo=True)
-      ttt=response["choices"][0]["text"]
-      ttt=ttt.split("}")
-      print(ttt[-1])
-      ff.write(ttt[-1])
-      temp=""
-  print("-------------------------------------------------------------")
+        ttt=response["choices"][0]["text"]
+        ttt=ttt.split("}")
+        print(ttt[-1])
+        ff.write(ttt[-1])
+        temp=""
+    print("-------------------------------------------------------------")
                                                                          
