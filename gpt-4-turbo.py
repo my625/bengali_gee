@@ -2,7 +2,7 @@ import csv
 import time
 import openai
 import csv
-openai.api_key=""
+openai.api_key= "API KEY"
 import json
 import os
 lll=open("write1_gpt4t_edm_6.txt","a+")
