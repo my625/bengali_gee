@@ -13,7 +13,7 @@ for i in range(0,1):
         jsonData = data["transcription"]
         data=jsonData
         print(data)
-         temp_summary = """You have been given  Bengali sentence(s) with errors. Your assignment has two main components: (1) Produce the Corrected Sentence: Identify and rectify the errors in the provided sentence, ensuring it is both grammatically and contextually accurate in Bengali. (2) Provide Concise Explanations for Each Error Type: For every error corrected in the sentence, categorize the error type and offer a brief explanation. Clarify the grammatical, syntactical, or semantic issues addressed and present the rationale behind each correction. The goal is to enhance understanding of the language intricacies involved. 
+        temp_summary = """You have been given  Bengali sentence(s) with errors. Your assignment has two main components: (1) Produce the Corrected Sentence: Identify and rectify the errors in the provided sentence, ensuring it is both grammatically and contextually accurate in Bengali. (2) Provide Concise Explanations for Each Error Type: For every error corrected in the sentence, categorize the error type and offer a brief explanation. Clarify the grammatical, syntactical, or semantic issues addressed and present the rationale behind each correction. The goal is to enhance understanding of the language intricacies involved. 
                           Example: 
                           Incorrect sentece: 
                           আমি গতকাল বাজারে যাই সবজি কিনি।                                                                                                      
