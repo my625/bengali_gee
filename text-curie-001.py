@@ -22,11 +22,11 @@ for i in range(0,1):
                           Explanations:
 
                          1. যাই → গিয়ে
-                            Error Type: Verb Form
+                            Error Type: Verb Tense
                             Explanation: The verb "যাই" (jai) implies the act of going, while the context of the sentence requires the past action of going to the market. Therefore, the correct form is "গিয়ে" (giye), indicating that the speaker went to the market.
 
                            2. কিনি → কিনলাম
-                             Error Type: Verb Form
+                             Error Type: Verb Tense
                              Explanation: The original sentence used the verb "কিনি" (kini), which is the present tense form. To match the past tense context of the sentence, the correct form is "কিনলাম" (kinlam), indicating that the speaker bought vegetables in the past.
 
                              Sentence(s) for correction is/are provided below.                                                      
