@@ -1,5 +1,5 @@
-# Assessing Pre-trained Generative Large Language Models for Bengali Grammatical Error Explanation
-This repository contains code and data for the paper titled "Assessing Pre-trained Generative Large Language Models for Bengali Grammatical Error Explanation." The goal of this research is to evaluate the performance of various pre-trained large language models on the task of correcting grammatical errors in Bengali sentences and providing concise explanations for each error type. It is important to note that the codes include only one-shot example.
+# How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?
+This repository contains code and data for the paper titled "How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?" The goal of this research is to evaluate the performance of various pre-trained large language models on the task of correcting grammatical errors in Bengali sentences and providing concise explanations for each error type. It is important to note that the codes include only one-shot example.
 
 ### Code Files:
 
