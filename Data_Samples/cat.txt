@@ -3,7 +3,7 @@ spelling, spelling
 word order, word order
 case marker, spelling, case marker
 pronoun, subject verb agreement
-orthography, auxiliary verb
+orthography, orthography, auxiliary verb
 auxiliary verb, spelling
 case marker, guruchondali dosh
 punctuation, punctuation, punctuation
