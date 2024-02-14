@@ -17,8 +17,5 @@ The following Python scripts are included in the repository:
   
 Each script is designed to take a Bengali sentence with errors as input and output the corrected sentence along with concise explanations for each error type. The models used include GPT-4 Turbo, GPT-3.5 Turbo, text-davinci-003, text-curie-001, text-babbage-001, text-ada-001, llama-2-7b, llama-2-13b, and llama-2-70b.
 
-### Dataset Samples:
 
-The dataset is provided in the "Dataset Samples" directory, which contains 100 .txt files. Each file includes an erroneous Bengali sentence and its corresponding human-annotated correct Bengali sentence.
-
-[ Full dataset coming soon! ]
+A sample of the dataset can be found under the 'Dataset_Samples' folder. The full dataset will be released shortly.
