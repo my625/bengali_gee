@@ -7,3 +7,44 @@ orthography, orthography, auxiliary verb
 auxiliary verb, spelling
 case marker, guruchondali dosh
 punctuation, punctuation, punctuation
+spelling, punctuation
+spelling, case marker, punctuation
+orthography, spelling
+subject verb agreement, punctuation
+spelling, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation
+orthography, spelling
+guruchondali dosh, punctuation, guruchondali dosh, guruchondali dosh
+punctuation, spelling 
+punctuation, spelling 
+orthography, word order, spelling, punctuation
+punctuation, spelling, punctuation
+subject verb agreement, punctuation
+spelling, punctuation, punctuation
+subject verb agreement, punctuation, spelling, punctuation
+case marker, punctuation
+spelling, spelling, punctuation
+spelling, punctuation
+orthography, punctuation
+subject verb agreement, punctuation, punctuation
+orthography, punctuation
+case marker, punctuation
+spelling, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation
+case marker, word order, spelling
+pronoun, spelling
+orthography, word order,  word order
+spelling, subject verb agreement
