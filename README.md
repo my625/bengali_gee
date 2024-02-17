@@ -19,3 +19,11 @@ Each script is designed to take a Bengali sentence with errors as input and outp
 
 
 A sample of the dataset can be found under the 'Data_Samples' folder. The full dataset will be released shortly.
+
+The "Data_Samples" folder consists of the following .txt files:
+
+- err.txt: Compilation of erroneous Bengali sentences from various sources such as Bengali essays, news, and social media.
+
+- ref.txt: Contains grammatically correct versions of sentences in "err.txt". 
+
+- cat.txt: Provides error type information corresponding to sentences in "err.txt". 
