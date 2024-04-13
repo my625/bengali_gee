@@ -48,3 +48,615 @@ case marker, word order, spelling
 pronoun, spelling
 orthography, word order,  word order
 spelling, subject verb agreement
+orthography, spelling, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation
+orthography, spelling
+guruchondali dosh, punctuation, guruchondali dosh, guruchondali dosh
+punctuation, spelling 
+punctuation, spelling, word order 
+orthography, word order, spelling, punctuation
+punctuation, spelling, punctuation
+subject verb agreement, punctuation
+spelling, punctuation, punctuation
+subject verb agreement, punctuation, spelling, punctuation
+case marker, punctuation
+spelling, spelling, punctuation
+spelling, punctuation
+orthography, punctuation
+subject verb agreement, punctuation, punctuation
+orthography, punctuation
+case marker, punctuation
+spelling, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation, word order
+case marker, word order, spelling
+pronoun, spelling, word order
+orthography, word order,  word order
+spelling, subject verb agreement, word order
+orthography, spelling, punctuation, word order
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation, word order
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation, word order
+orthography, spelling, word order
+guruchondali dosh, punctuation, guruchondali dosh, guruchondali dosh
+punctuation, spelling, word order 
+punctuation, spelling, word order 
+orthography, word order, spelling, punctuation
+punctuation, spelling, punctuation, word order
+subject verb agreement, punctuation, word order
+spelling, punctuation, punctuation, word order
+subject verb agreement, punctuation, spelling, punctuation
+case marker, punctuation, word order
+spelling, spelling, punctuation, word order
+spelling, punctuation, word order
+orthography, punctuation, word order
+subject verb agreement, punctuation, punctuation
+orthography, punctuation, word order
+case marker, punctuation, word order
+spelling, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation, word order
+case marker, word order, spelling
+pronoun, spelling, word order
+orthography, word order,  word order
+spelling, subject verb agreement,  word order
+ verb tense, verb tense
+spelling, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order,case marker, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,case marker, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling
+word order, word order
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb,case marker, punctuation
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling
+verb tense, verb tense,case marker, punctuation
+spelling, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,subject verb agreement, punctuation
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,case marker, punctuation
+word order, word order
+case marker, spelling, case marker
+pronoun, subject verb agreement,case marker, punctuation
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,subject verb agreement, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,subject verb agreement, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation, punctuation
+orthography, punctuation, word order
+case marker, punctuation, word order
+spelling, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation, word order
+case marker, word order, spelling
+pronoun, spelling, word order
+orthography, word order,  word order
+spelling, subject verb agreement,  word order
+ verb tense, verb tense
+spelling, spelling,subject verb agreement, punctuation
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,subject verb agreement, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order,case marker, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,case marker, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,subject verb agreement, punctuation
+word order, word order
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb,case marker, punctuation
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,subject verb agreement, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,subject verb agreement, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,case marker, punctuation
+word order, word order
+case marker, spelling, case marker
+pronoun, subject verb agreement,case marker, punctuation
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,subject verb agreement, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation, punctuation
+orthography, punctuation, word order
+case marker, punctuation, word order
+spelling, punctuation,subject verb agreement, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation, word order
+case marker, word order, spelling
+pronoun, spelling, word order,subject verb agreement, punctuation
+orthography, word order,  word order
+spelling, subject verb agreement,  word order
+ verb tense, verb tense
+spelling, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order,case marker, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,case marker, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,subject verb agreement, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,subject verb agreement, punctuation
+word order, word order
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation,subject verb agreement, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb,case marker, punctuation
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling
+verb tense, verb tense,case marker, punctuation
+spelling, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,case marker, punctuation
+word order, word order,subject verb agreement, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement,case marker, punctuation
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order,subject verb agreement, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,subject verb agreement, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation, punctuation
+orthography, punctuation, word order
+case marker, punctuation, word order
+spelling, punctuation
+punctuation, spelling, spelling, spelling
+spelling, spelling, orthography, punctuation
+case marker, punctuation, word order
+case marker, word order, spelling,subject verb agreement, punctuation
+pronoun, spelling, word order
+orthography, word order,  word order
+spelling, subject verb agreement,  word order
+ verb tense, verb tense
+spelling, spelling,auxiliary verb, spelling
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,subject verb agreement, punctuation
+case marker, guruchondali dosh,auxiliary verb, spelling
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order,case marker, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,case marker, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,subject verb agreement, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,auxiliary verb, spelling
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,subject verb agreement, punctuation
+word order, word order,auxiliary verb, spelling
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation,subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,pronoun, subject verb agreement
+orthography, spelling, auxiliary verb,case marker, punctuation
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,pronoun, subject verb agreement
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement,auxiliary verb, spelling
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,auxiliary verb, spelling
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,pronoun, subject verb agreement
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,case marker, punctuation
+word order, word order,pronoun, subject verb agreement
+case marker, spelling, case marker
+pronoun, subject verb agreement,case marker, punctuation
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,auxiliary verb, spelling
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,pronoun, subject verb agreement
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation,pronoun, subject verb agreement
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,pronoun, subject verb agreement
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,auxiliary verb, spelling
+spelling, spelling, punctuation, spelling, punctuation,pronoun, subject verb agreement
+orthography, punctuation,case marker,pronoun, subject verb agreement
+orthography, spelling,case marker, punctuation,pronoun, subject verb agreement
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation,subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,pronoun, subject verb agreement
+orthography, spelling, auxiliary verb,case marker, punctuation
+punctuation, orthography,  spelling,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,case marker, punctuation
+orthography, spelling,auxiliary verb, spelling
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,pronoun, subject verb agreement
+word order, word order,case marker, punctuation
+case marker, spelling, case marker
+pronoun, subject verb agreement
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,case marker, punctuation
+case marker, guruchondali dosh
+punctuation, punctuation, punctuation
+spelling, punctuation,case marker, punctuation
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation
+spelling, punctuation,auxiliary verb, spelling
+spelling, punctuation, word order
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,auxiliary verb, spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,case marker, punctuation
+spelling, spelling, punctuation, spelling, punctuation
+orthography, punctuation,pronoun, subject verb agreement
+orthography, spelling,case marker, punctuation
+verb tense, verb tense,case marker, punctuation
+spelling, spelling,case marker, punctuation
+word order, word order,pronoun, subject verb agreement
+case marker, spelling, case marker,auxiliary verb, spelling
+pronoun, subject verb agreement,case marker, punctuation
+orthography, orthography, auxiliary verb
+auxiliary verb, spelling,auxiliary verb, spelling
+case marker, guruchondali dosh,case marker, punctuation
+punctuation, punctuation, punctuation
+spelling, punctuation,pronoun, subject verb agreement
+spelling, case marker, punctuation
+orthography, spelling,case marker, punctuation
+subject verb agreement, punctuation,pronoun, subject verb agreement
+spelling, punctuation,case marker, punctuation
+spelling, punctuation
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,pronoun, subject verb agreement
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation
+spelling, spelling, punctuation, spelling, punctuation,pronoun, subject verb agreement
+orthography, punctuation,case marker, punctuation,pronoun, subject verb agreement
+orthography, spelling,case marker, punctuation,pronoun, subject verb agreement
+spelling, word order, subject verb agreement, punctuation
+case marker, spelling, punctuation,pronoun, subject verb agreement
+orthography, spelling, auxiliary verb
+punctuation, orthography,  spelling,auxiliary verb, spelling
+orthography, spelling, punctuation
+orthography, spelling, punctuation,case marker, punctuation
+spelling, orthography, auxiliary verb, punctuation
+spelling, auxiliary verb,  punctuation
+spelling, punctuation,auxiliary verb, spelling
+spelling, spelling, punctuation, spelling, punctuation,pronoun, subject verb agreement
+orthography, punctuation,case marker, punctuation,pronoun, subject verb agreement
+orthography, spelling,case marker, punctuation,pronoun, subject verb agreement
