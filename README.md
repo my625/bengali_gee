@@ -1,5 +1,5 @@
 # How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?
-This repository contains code and data for the paper titled "How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?" The goal of this research is to evaluate the performance of various pre-trained large language models on the task of correcting grammatical errors in Bengali sentences and providing concise explanations for each error type. It is important to note that the codes include only one-shot example.
+This repository contains code and data for our Educational Data Mining (EDM) 2024 paper titled "How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?" The goal of this research is to evaluate the performance of various pre-trained large language models on the task of correcting grammatical errors in Bengali sentences and providing concise explanations for each error type. It is important to note that the codes include only one-shot example.
 
 ### Code Files:
 
@@ -27,4 +27,10 @@ The "Data_Samples" folder consists of the following .txt files:
 
 - ref.txt: Contains grammatically correct versions of sentences in "err.txt". 
 
-- cat.txt: Provides error type information corresponding to sentences in "err.txt". 
+- cat.txt: Provides error type information corresponding to sentences in "err.txt".
+
+#### Contact Information:
+
+For any questions, concerns, or feedback regarding the dataset, please contact us at [subhankar.ai@kgpian.iitkgp.ac.in].
+
+Thank you for choosing our dataset for your research and training needs!
